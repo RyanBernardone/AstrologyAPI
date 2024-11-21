@@ -143,3 +143,4 @@ C:\Users\Ryan\AstrologyAPI\Server\obj\Debug\net9.0\refint\AstrologyAPI.dll
 C:\Users\Ryan\AstrologyAPI\Server\obj\Debug\net9.0\AstrologyAPI.pdb
 C:\Users\Ryan\AstrologyAPI\Server\obj\Debug\net9.0\AstrologyAPI.genruntimeconfig.cache
 C:\Users\Ryan\AstrologyAPI\Server\obj\Debug\net9.0\ref\AstrologyAPI.dll
+C:\Users\Ryan\AstrologyAPI\Server\obj\Debug\net9.0\AstrologyAPI.sourcelink.json
