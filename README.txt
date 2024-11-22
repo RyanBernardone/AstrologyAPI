@@ -8,8 +8,8 @@ Este projeto consiste em um sistema distribuído com um servidor em C# (.NET) e 
 Antes de começar, certifique-se de que as seguintes ferramentas estão instaladas no computador:
 
 ### Para o Servidor (C#):
-1. **.NET SDK** (versão 6 ou superior)  
-   - Download: https://dotnet.microsoft.com/download/dotnet/6.0
+1. **.NET SDK** (versão 9 ou superior)  
+   - Download: https://dotnet.microsoft.com/pt-br/download
 
 2. **Ferramenta de Linha de Comando do Entity Framework Core** (opcional, para gerenciar o banco de dados SQLite).  
    Instale com o comando:
