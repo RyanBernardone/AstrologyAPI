@@ -15,12 +15,13 @@ Antes de começar, certifique-se de que as seguintes ferramentas estão instalad
    Instale com o comando:
    ```bash
    dotnet tool install --global dotnet-ef
-
+   ```
    Utilize os comandos para realizar as migrações:
+   
    ```bash
    dotnet-ef migrations add InitialCreate
    dotnet-ef database update
-
+   ```
 ### Para o Cliente (Pyhton):
 1. **Python** (versão 3.13.0)
    - Download: https://www.python.org/downloads/
@@ -29,18 +30,19 @@ Antes de começar, certifique-se de que as seguintes ferramentas estão instalad
    Utilize os seguintes comando para isso:
    ```bash
    python -m ensurepip --upgrade
-
+   ```
    Após instalar o pip, instale o requests:
    ```bash
    pip install requests
-
+   ```
 ## Executando o projeto:
 
 1. **Para executar o projeto siga os seguintes passos**.
    Execute primeiramente o servidor pelo terminal integrado:
    ```bash
    dotnet run
-
+   ```
    Após executar o servidor, execute o cliente pelo terminal:
    ```bash
    python client.py
+   ```
