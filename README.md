@@ -13,11 +13,11 @@ Antes de começar, certifique-se de que as seguintes ferramentas estão instalad
 
 2. **Ferramenta de Linha de Comando do Entity Framework Core** (opcional, para gerenciar o banco de dados SQLite).  
    Instale com o comando:
-   ``bash
+   ```bash
    dotnet tool install --global dotnet-ef
 
    Utilize os comandos para realizar as migrações:
-   ``bash
+   ```bash
    dotnet-ef migrations add InitialCreate
    dotnet-ef database update
 
@@ -27,20 +27,20 @@ Antes de começar, certifique-se de que as seguintes ferramentas estão instalad
 
 2. **Certifique-se que o pip está instalado corretamente em sua maquina**.
    Utilize os seguintes comando para isso:
-   ``bash
+   ```bash
    python -m ensurepip --upgrade
 
    Após instalar o pip, instale o requests:
-   ``bash
+   ```bash
    pip install requests
 
 ## Executando o projeto:
 
 1. **Para executar o projeto siga os seguintes passos**.
    Execute primeiramente o servidor pelo terminal integrado:
-   ``bash
+   ```bash
    dotnet run
 
    Após executar o servidor, execute o cliente pelo terminal:
-   ``bash
+   ```bash
    python client.py
