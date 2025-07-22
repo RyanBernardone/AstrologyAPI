@@ -13,7 +13,7 @@ Antes de começar, certifique-se de que as seguintes ferramentas estão instalad
 
 2. **Ferramenta de Linha de Comando do Entity Framework Core** (opcional, para gerenciar o banco de dados SQLite).  
    Instale com o comando:
-   ```bash
+   ``bash
    dotnet tool install --global dotnet-ef
 
    Utilize os comandos para realizar as migrações:
